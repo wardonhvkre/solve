@@ -1,6 +1,6 @@
 [versions]
 accordance = "3.2.2"
-thunder = "3.3.2"
+thunder = "3.4.3"
 
 [libraries]
 accordance = { module = "io.ktor:ktor-server-cio", version.ref = "accordance" }
