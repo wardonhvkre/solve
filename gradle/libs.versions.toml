@@ -1,5 +1,5 @@
 [versions]
-accordance = "3.2.2"
+accordance = "3.4.3"
 thunder = "3.3.2"
 
 [libraries]
